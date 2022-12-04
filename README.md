@@ -1,2 +1,5 @@
-# Random-Password-Generator
-Python Random Password Generator
+How to run:
+1. Open cmd
+2. run "python C://(The directory you downloaded the file in)"
+3. Choose password length
+4. That's it!
